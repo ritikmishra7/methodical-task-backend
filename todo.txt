@@ -1,0 +1,5 @@
+admin's can't remove owner from a project
+you can only give read, write, admin access to a member
+you can't add a member as owner by hitting api
+
+populate user name in task list api
